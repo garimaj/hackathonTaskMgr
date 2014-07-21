@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SWATICOMP</Machine>
+    <WindowsUser>swagarw</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2d8da7a0-1395-47d0-a36f-3bcffa242b16</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\ToDoMon0_0_11.exe">
+      <PackagePath>ToDoMon0_0_11.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\amazing.png">
+      <PackagePath>Assets\Plano\amazing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\anger.png">
+      <PackagePath>Assets\Plano\anger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\bad_egg.png">
+      <PackagePath>Assets\Plano\bad_egg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\bad_smile.png">
+      <PackagePath>Assets\Plano\bad_smile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\beaten.png">
+      <PackagePath>Assets\Plano\beaten.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\big_smile.png">
+      <PackagePath>Assets\Plano\big_smile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\black_heart.png">
+      <PackagePath>Assets\Plano\black_heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\cry.png">
+      <PackagePath>Assets\Plano\cry.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\electric_shock.png">
+      <PackagePath>Assets\Plano\electric_shock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\exciting.png">
+      <PackagePath>Assets\Plano\exciting.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\eyes_droped.png">
+      <PackagePath>Assets\Plano\eyes_droped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\girl.png">
+      <PackagePath>Assets\Plano\girl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\greedy.png">
+      <PackagePath>Assets\Plano\greedy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\grimace.png">
+      <PackagePath>Assets\Plano\grimace.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\haha.png">
+      <PackagePath>Assets\Plano\haha.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\happy.png">
+      <PackagePath>Assets\Plano\happy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\horror.png">
+      <PackagePath>Assets\Plano\horror.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\money.png">
+      <PackagePath>Assets\Plano\money.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\nothing.png">
+      <PackagePath>Assets\Plano\nothing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\nothing_to_say.png">
+      <PackagePath>Assets\Plano\nothing_to_say.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\red_heart.png">
+      <PackagePath>Assets\Plano\red_heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\scorn.png">
+      <PackagePath>Assets\Plano\scorn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\secret_smile.png">
+      <PackagePath>Assets\Plano\secret_smile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\shame.png">
+      <PackagePath>Assets\Plano\shame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\shocked.png">
+      <PackagePath>Assets\Plano\shocked.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\super_man.png">
+      <PackagePath>Assets\Plano\super_man.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\the_iron_man.png">
+      <PackagePath>Assets\Plano\the_iron_man.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\unhappy.png">
+      <PackagePath>Assets\Plano\unhappy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\victory.png">
+      <PackagePath>Assets\Plano\victory.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\what.png">
+      <PackagePath>Assets\Plano\what.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Speech-Bubble.jpg">
+      <PackagePath>Assets\Speech-Bubble.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

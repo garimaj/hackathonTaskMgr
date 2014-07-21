@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SWATICOMP</Machine>
+    <WindowsUser>swagarw</WindowsUser>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>2d8da7a0-1395-47d0-a36f-3bcffa242b16</PackageIdentityName>
+    <RegisteredManifestChecksum>DAEF20C024EE935E7ED6C15F83A4AEE591378736E07057A3B8B3B8F478402F74</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2d8da7a0-1395-47d0-a36f-3bcffa242b16_1.0.0.0_x64__hmwckkjz0refg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2d8da7a0-1395-47d0-a36f-3bcffa242b16_hmwckkjz0refg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2d8da7a0-1395-47d0-a36f-3bcffa242b16</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=swagarw</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-20T16:36:36.139</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\ToDoMon0_0_11.exe">
+      <PackagePath>ToDoMon0_0_11.exe</PackagePath>
+      <Modified>2014-07-20T16:38:43.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.5\Redist\Retail\x64\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2014-07-20T13:35:56.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\amazing.png">
+      <PackagePath>Assets\Plano\amazing.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\anger.png">
+      <PackagePath>Assets\Plano\anger.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\bad_egg.png">
+      <PackagePath>Assets\Plano\bad_egg.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\bad_smile.png">
+      <PackagePath>Assets\Plano\bad_smile.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\beaten.png">
+      <PackagePath>Assets\Plano\beaten.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\big_smile.png">
+      <PackagePath>Assets\Plano\big_smile.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\black_heart.png">
+      <PackagePath>Assets\Plano\black_heart.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\cry.png">
+      <PackagePath>Assets\Plano\cry.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\electric_shock.png">
+      <PackagePath>Assets\Plano\electric_shock.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\exciting.png">
+      <PackagePath>Assets\Plano\exciting.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\eyes_droped.png">
+      <PackagePath>Assets\Plano\eyes_droped.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\girl.png">
+      <PackagePath>Assets\Plano\girl.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\greedy.png">
+      <PackagePath>Assets\Plano\greedy.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\grimace.png">
+      <PackagePath>Assets\Plano\grimace.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\haha.png">
+      <PackagePath>Assets\Plano\haha.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\happy.png">
+      <PackagePath>Assets\Plano\happy.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\horror.png">
+      <PackagePath>Assets\Plano\horror.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\money.png">
+      <PackagePath>Assets\Plano\money.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\nothing.png">
+      <PackagePath>Assets\Plano\nothing.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\nothing_to_say.png">
+      <PackagePath>Assets\Plano\nothing_to_say.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\red_heart.png">
+      <PackagePath>Assets\Plano\red_heart.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\scorn.png">
+      <PackagePath>Assets\Plano\scorn.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\secret_smile.png">
+      <PackagePath>Assets\Plano\secret_smile.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\shame.png">
+      <PackagePath>Assets\Plano\shame.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\shocked.png">
+      <PackagePath>Assets\Plano\shocked.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\super_man.png">
+      <PackagePath>Assets\Plano\super_man.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\the_iron_man.png">
+      <PackagePath>Assets\Plano\the_iron_man.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\unhappy.png">
+      <PackagePath>Assets\Plano\unhappy.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\victory.png">
+      <PackagePath>Assets\Plano\victory.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Plano\what.png">
+      <PackagePath>Assets\Plano\what.png</PackagePath>
+      <Modified>2014-07-20T12:27:55.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\Assets\Speech-Bubble.jpg">
+      <PackagePath>Assets\Speech-Bubble.jpg</PackagePath>
+      <Modified>2014-07-20T13:00:33.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-07-16T02:34:09.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\CreateTask.xbf">
+      <PackagePath>CreateTask.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+      <Modified>2014-07-20T16:36:34.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\swagarw\Desktop\todomonrefs\ToDoMon0_0_11\ToDoMon0_0_11\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-20T16:36:35.946</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

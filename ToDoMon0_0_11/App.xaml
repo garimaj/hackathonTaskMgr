@@ -1,0 +1,16 @@
+﻿<Application
+    x:Class="ToDoMon0_0_11.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ToDoMon0_0_11"
+    xmlns:localData="using:ToDoMon0_0_11.Data"
+    RequestedTheme="Light"
+    >
+
+    <Application.Resources>
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">ToDoMon0_0_11</x:String>
+
+    </Application.Resources>
+</Application>
